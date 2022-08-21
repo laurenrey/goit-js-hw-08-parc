@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08-parc",
   "version": "2.0.0",
   "description": "",
-  "homepage": "hhttps://laurenrey.github.io/goit-js-hw-08-parc/",
+  "homepage": "https://laurenrey.github.io/goit-js-hw-08-parc/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08-parc/"
